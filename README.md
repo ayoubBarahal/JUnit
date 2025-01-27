@@ -9,4 +9,4 @@ This project is not intended for production use or advanced calculation scenario
 - JUnit tests included to verify the functionality of each operation.
 
 ## Test
-# mvn test
+- mvn test
